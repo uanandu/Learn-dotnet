@@ -1,0 +1,14 @@
+D:\Learn C#\Learn-dotnet\MyApp\bin\Debug\net7.0\MyApp.exe
+D:\Learn C#\Learn-dotnet\MyApp\bin\Debug\net7.0\MyApp.deps.json
+D:\Learn C#\Learn-dotnet\MyApp\bin\Debug\net7.0\MyApp.runtimeconfig.json
+D:\Learn C#\Learn-dotnet\MyApp\bin\Debug\net7.0\MyApp.dll
+D:\Learn C#\Learn-dotnet\MyApp\bin\Debug\net7.0\MyApp.pdb
+D:\Learn C#\Learn-dotnet\MyApp\obj\Debug\net7.0\MyApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learn C#\Learn-dotnet\MyApp\obj\Debug\net7.0\MyApp.AssemblyInfoInputs.cache
+D:\Learn C#\Learn-dotnet\MyApp\obj\Debug\net7.0\MyApp.AssemblyInfo.cs
+D:\Learn C#\Learn-dotnet\MyApp\obj\Debug\net7.0\MyApp.csproj.CoreCompileInputs.cache
+D:\Learn C#\Learn-dotnet\MyApp\obj\Debug\net7.0\MyApp.dll
+D:\Learn C#\Learn-dotnet\MyApp\obj\Debug\net7.0\refint\MyApp.dll
+D:\Learn C#\Learn-dotnet\MyApp\obj\Debug\net7.0\MyApp.pdb
+D:\Learn C#\Learn-dotnet\MyApp\obj\Debug\net7.0\MyApp.genruntimeconfig.cache
+D:\Learn C#\Learn-dotnet\MyApp\obj\Debug\net7.0\ref\MyApp.dll
